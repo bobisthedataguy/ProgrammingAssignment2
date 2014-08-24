@@ -2,7 +2,7 @@
 #############################################################################################
 ##
 ## R Programming July 2014 - Coursera/Johns Hopkins Univ.
-## Assignment 2 - bobisthedataguy
+## Assignment 2 - bobisthedataguy 
 ##
 ## Set of functions for caching a matrix and it's inverse. Includes the following modules 
 ## specified in the assignment:  
@@ -160,3 +160,4 @@ nullMatrix <- function() {                          ## NULL the cached matrix
 #############################################################################################
 ## END
 #############################################################################################
+
